@@ -4,7 +4,9 @@ This task aims to develop and assess an NLP system that can identify semantic si
 
 # (1)	Environment Settings
 •	Platform: Kaggle platform is used for the assigned task.
+
 •	Dataset: Provided dataset train.csv and additional dataset glove.6B.100d.txt is used for embeddings.
+
 •	Keras Conflict: To avoid keras conflict with Kaggle system install the intended version (Provided in the python code)
 
 
@@ -20,6 +22,7 @@ The following models are implemented:
 
 •	Transformer Learning Model:
 I.	BERT
+
 II.	DistilBERT
 
 
