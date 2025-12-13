@@ -1,4 +1,4 @@
-# question-pair-similarity-classification
+# Question Pair Similarity Classification
 
 This task aims to develop and assess an NLP system that can identify semantic similarity between question pairs. The report details the complete development workflow, encompassing Exploratory Data Analysis, Text Preprocessing, Model Creation, Model Evaluation and Model Tuning and Hyperparameter Optimization.
 
